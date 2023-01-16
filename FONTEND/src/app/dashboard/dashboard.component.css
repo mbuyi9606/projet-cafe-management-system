@@ -1,0 +1,16 @@
+div{
+    background-color: teal;
+     height: 700px;
+ }
+ nav{
+     padding: 25px 30px;
+     font: 20px serif;
+     color: green;
+ }
+ aside{
+    background-color: thistle;
+    width: 350px;
+    height: 750px;
+    float: left;
+    position: fixed;
+ }
